@@ -22,3 +22,6 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+
+3 ways you can emit using Vue js 2
